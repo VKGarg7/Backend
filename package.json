@@ -2,6 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "backend",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +11,9 @@
     "javascript",
     "backend"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "vansh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
