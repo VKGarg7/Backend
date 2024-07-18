@@ -1,10 +1,11 @@
 import mongoose from 'mongoose';
 import { DB_NAME } from './constants';
 
-import express from 'express';
+
+
+
+/*import express from 'express';
 const app = express();
-
-
 (async () => {
     try
     {
@@ -23,4 +24,4 @@ const app = express();
         console.log("ERROR:",error);
         throw error;
     }
-}) ()
+}) ()*/
